@@ -12,18 +12,18 @@ passwords themselves, per OverTheWire's rules against posting spoilers.
 
 | Level | Concept |
 |-------|---------|
-| 0 → 1 | SSH basics, file navigation |
-| 1 → 2 | Filenames starting with a dash |
-| 2 → 3 | Quoting filenames with spaces |
-| 3 → 4 | Hidden files (`ls -la`) |
-| 4 → 5 | File type identification (`file`) |
-| 5 → 6 | `find` with multiple filters |
-| 6 → 7 | `find` across the filesystem, owner/group |
-| 7 → 8 | `grep` pattern searching |
-| 8 → 9 | `sort` + `uniq -c` frequency counting |
-| 9 → 10 | `strings` — extracting text from binary |
-| 10 → 11 | Base64 decoding |
-| 11 → 12 | ROT13 cipher |
+| [0 → 1](#level-0--1) | SSH basics, file navigation |
+| [1 → 2](#level-1--2) | Filenames starting with a dash |
+| [2 → 3](#level-2--3) | Quoting filenames with spaces |
+| [3 → 4](#level-3--4) | Hidden files (`ls -la`) |
+| [4 → 5](#level-4--5) | File type identification (`file`) |
+| [5 → 6](#level-5--6) | `find` with multiple filters |
+| [6 → 7](#level-6--7) | `find` across the filesystem, owner/group |
+| [7 → 8](#level-7--8) | `grep` pattern searching |
+| [8 → 9](#level-8--9) | `sort` + `uniq -c` frequency counting |
+| [9 → 10](#level-9--10) | `strings` — extracting text from binary |
+| [10 → 11](#level-10--11) | Base64 decoding |
+| [11 → 12](#level-11--12) | ROT13 cipher |
 
 ---
 
